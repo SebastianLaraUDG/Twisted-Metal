@@ -1,0 +1,40 @@
+*.meta
+*.vsconfig
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+/Builds/
+
+# ============= #
+# Visual Studio #
+# ============= #
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# ========== #
+# Unity Cache #
+# ========== #
+unityGenerated/
+*.bak
+*.backup
+*.orig
+*.rej
+
+# =========== #
+# Builds      #
+# =========== #
+*.apk
+*.unitypackage
+*.aab
