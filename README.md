@@ -43,7 +43,7 @@ A short replica in Unity 6 of the game Twisted Metal using free assets from kenn
 - **Car color customization**
 - **Car movement**
 - **Projectile firing**
-
+- **Impulse ramps**
 
 Unfortunately, due to various circumstances this is an incomplete version of the final game (restored), therefore
 many features are missing like an improved UI, a main menu, a victory/defeat ending screen, and a better/more challenging battle arena.
